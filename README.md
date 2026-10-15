@@ -1,6 +1,6 @@
 The Honest Million
 Artemis 2026 • Problem Statement 1
-Oct 15, 2026 • @shreyasi
+Oct 15, 2026 
 A calm, one-decision-at-a-time planner for a first-time investor. Aarav is 19, earns about ₹8,000 a month, has never invested, and wants to reach ₹10 lakh.
 Educational demo only. Returns are illustrative assumptions, not predictions or investment advice.
 Repository structure
